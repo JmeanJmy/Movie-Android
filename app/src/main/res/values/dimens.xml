@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spacing_medium">16dp</dimen>
+    <dimen name="todo_edit_app_bar_height">144dp</dimen>
+    <dimen name="todo_edit_margin_top">44dp</dimen>
+    <dimen name="text_margin_left">16dp</dimen>
+    <dimen name="text_margin_right">16dp</dimen>
+    <dimen name="edit_text_margin_bottom">32dp</dimen>
+    <dimen name="todo_edit_text_size">20sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="movie_genres_size">18sp</dimen>
+    <dimen name="movie_title_size">20sp</dimen>
+    <dimen name="movie_space">10dp</dimen>
+    <dimen name="movie_margin_bottom">48dp</dimen>
+    <dimen name="recycler_view_padding">16dp</dimen>
+    <dimen name="card_elevation">8dp</dimen>
+    <dimen name="login_welcome_margin">64dp</dimen>
+    <dimen name="login_welcome">30sp</dimen>
+    <dimen name="help_info">288dp</dimen>
+    <dimen name="button_width">64dp</dimen>
+    <dimen name="button_height">36dp</dimen>
+    <dimen name="x4">4dp</dimen>
+    <dimen name="y5">4dp</dimen>
+    <dimen name="middlesize">14sp</dimen>
+    <dimen name="button_width_">36dp</dimen>
+    <dimen name="button_height_">36dp</dimen>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieS</string>
+    <string name="activity_login_btn_text">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="edit_task_hint">Search...</string>
+</resources>
